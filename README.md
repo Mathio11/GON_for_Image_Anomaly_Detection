@@ -79,13 +79,6 @@ matplotlib
 scikit-learn
 ```
 
-### Installation
-
-```bash
-git clone https://github.com/Mathio11/GON_for_Image_Anomaly_Detection.git
-cd GON_for_Image_Anomaly_Detection
-```
-
 
 
 ## References
