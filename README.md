@@ -93,3 +93,7 @@ cd GON_for_Image_Anomaly_Detection
 - Bond-Taylor, S., & Willcocks, C. G. (2020). Gradient Origin Networks. [arXiv:2007.02798](https://arxiv.org/abs/2007.02798)
 
 
+## Acknowledgments
+
+- The authors of the original GON paper
+- The authors of the MVTec AD and MNIST datasets
